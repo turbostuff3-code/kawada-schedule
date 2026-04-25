@@ -1,4 +1,69 @@
 {
-  "updatedAt": "2026-04-25 12:00:00",
-  "events": []
+  "updatedAt": "2026-04-25 18:00:00",
+  "events": [
+    {
+      "id": 1,
+      "title": "朗読劇「オペラ座の怪人」",
+      "category": "stage",
+      "dateStart": "2026-05-02",
+      "dateEnd": null,
+      "venue": "",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "title": "PrimeVideo「CITADEL」シーズン2配信",
+      "category": "tv",
+      "dateStart": "2026-05-06",
+      "dateEnd": null,
+      "venue": "Amazon Prime Video",
+      "note": "配信開始日"
+    },
+    {
+      "id": 3,
+      "title": "コイシキウチライブ",
+      "category": "stage",
+      "dateStart": "2026-06-20",
+      "dateEnd": null,
+      "venue": "",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "title": "舞台「街灯に沈む」",
+      "category": "stage",
+      "dateStart": "2026-07-16",
+      "dateEnd": "2026-07-20",
+      "venue": "independent theater Oji",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "title": "朗読劇「遠き夏の日」横浜公演",
+      "category": "stage",
+      "dateStart": "2026-07-03",
+      "dateEnd": "2026-07-05",
+      "venue": "横浜テアトルフォンテ",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "title": "朗読劇「遠き夏の日」大阪公演",
+      "category": "stage",
+      "dateStart": "2026-07-11",
+      "dateEnd": "2026-07-12",
+      "venue": "大阪ABC Hall",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "title": "「アストリッドとラファエル6」吹き替え放送",
+      "category": "tv",
+      "dateStart": "2026-04-05",
+      "dateEnd": "2026-05-24",
+      "weekdays": [0],
+      "venue": "",
+      "note": "23:00〜 毎週日曜 全8回"
+    }
+  ]
 }
