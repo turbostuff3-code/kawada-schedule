@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0369a1"/>
+  <text x="256" y="310" font-size="220" text-anchor="middle" font-family="sans-serif">🎙</text>
+  <text x="256" y="460" font-size="60" text-anchor="middle" font-family="sans-serif" fill="white" font-weight="bold">川田</text>
+</svg>
