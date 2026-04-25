@@ -1,0 +1,18 @@
+{
+  "name": "川田紳司 スケジュール帳",
+  "short_name": "川田スケジュール",
+  "description": "川田紳司の出演・活動スケジュール",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f0f9ff",
+  "theme_color": "#0369a1",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
