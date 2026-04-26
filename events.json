@@ -1,5 +1,9 @@
 {
   "updatedAt": "2026-04-25 18:00:00",
+  "onAir": [
+    {"title": "CITADEL シーズン2", "platform": "Prime Video", "note": "配信中"},
+    {"title": "ハイ・ポテンシャル", "platform": "Disney+", "note": "配信中"}
+  ],
   "events": [
     {
       "id": 1,
