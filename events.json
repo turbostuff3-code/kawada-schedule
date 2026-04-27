@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-04-25 18:00:00",
+  "updatedAt": "2026-04-27 16:57:55",
   "onAir": [
-    {"title": "CITADEL シーズン2", "platform": "Prime Video", "note": "配信中"},
-    {"title": "ハイ・ポテンシャル", "platform": "Disney+", "note": "配信中"}
+    {
+      "title": "CITADEL シーズン2",
+      "platform": "Prime Video",
+      "note": "配信中"
+    },
+    {
+      "title": "ハイ・ポテンシャル",
+      "platform": "Disney+",
+      "note": "配信中"
+    }
   ],
   "events": [
     {
@@ -65,7 +73,9 @@
       "category": "tv",
       "dateStart": "2026-04-05",
       "dateEnd": "2026-05-24",
-      "weekdays": [0],
+      "weekdays": [
+        0
+      ],
       "venue": "",
       "note": "23:00〜 毎週日曜 全8回"
     }
