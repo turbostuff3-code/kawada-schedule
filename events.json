@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-04-25 18:00:00",
+  "updatedAt": "2026-05-14 18:39:10",
   "onAir": [
-    {"title": "クラスで２番目に可愛い女の子と友達になった", "platform": "TV", "note": "毎週火曜放送中"},
-    {"title": "CITADEL シーズン2", "platform": "Prime Video", "note": "配信中"},
-    {"title": "ハイ・ポテンシャル", "platform": "Disney+", "note": "配信中"}
+    {
+      "title": "クラスで２番目に可愛い女の子と友達になった",
+      "platform": "TV",
+      "note": "毎週火曜放送中"
+    },
+    {
+      "title": "CITADEL シーズン2",
+      "platform": "Prime Video",
+      "note": "配信中"
+    },
+    {
+      "title": "ハイ・ポテンシャル",
+      "platform": "Disney+",
+      "note": "配信中"
+    }
   ],
   "events": [
     {
@@ -66,7 +78,9 @@
       "category": "tv",
       "dateStart": "2026-04-07",
       "dateEnd": "2026-06-23",
-      "weekdays": [2],
+      "weekdays": [
+        2
+      ],
       "venue": "",
       "note": "毎週火曜放送 全12回"
     },
@@ -76,7 +90,9 @@
       "category": "tv",
       "dateStart": "2026-04-05",
       "dateEnd": "2026-05-24",
-      "weekdays": [0],
+      "weekdays": [
+        0
+      ],
       "venue": "",
       "note": "23:00〜 毎週日曜 全8回"
     }
